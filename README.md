@@ -7,4 +7,12 @@
 The purpose of this project is to attempt to predict volume in the warehouse handling process, per SKU.
 
 
-# Libraries:
+
+# Libraries used in the project:
+* Pandas
+* Decision Tree
+* Random Forest
+* Linear Regression
+* Seaborn
+
+
